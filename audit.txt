@@ -1,0 +1,37 @@
+2017-09-22T12:56:50.409 : addOrder: Order No. 10 |Customer's Name: Travis |State: PA | Total Area: 76 |Total Cost: 803.19
+2017-09-24T18:16:34.859 : addOrder: Order No. 10 |Customer's Name: Paul |State: PA | Total Area: 165 |Total Cost: 678.13
+2017-09-24T18:17:18.478 : addOrder: Order No. 11 |Customer's Name: Jason |State: IN | Total Area: 200 |Total Cost: 2098.80
+2017-09-24T18:18:22.983 : editOrder: Order No. 11 |Customer's Name: Jason |State: MI | Total Area: 350 |Total Cost: 3664.24
+2017-09-24T18:46:56.787 : addOrder: Order No. 11 |Customer's Name: Paul |State: IN | Total Area: 550 |Total Cost: 2244.55
+2017-09-24T18:48:03.937 : editOrder: Order No. 11 |Customer's Name: Kyle |State: IN | Total Area: 550 |Total Cost: 2244.55
+2017-09-24T18:49:08.362 : removeOrder: 11092417
+2017-09-24T18:51:11.050 : removeOrder: 11092417
+2017-09-24T18:52:23.797 : addOrder: Order No. 12 |Customer's Name: Paul |State: MI | Total Area: 55 |Total Cost: 223.93
+2017-09-24T18:52:52.592 : removeOrder: 12092417
+2017-09-24T19:01:41.148 : removeOrder: 11092417
+2017-09-24T19:04:39.442 : addOrder: Order No. 11 |Customer's Name: Paul |State: IN | Total Area: 456 |Total Cost: 4785.26
+2017-09-24T19:06:01.942 : addOrder: Order No. 12 |Customer's Name: Paul |State: MI | Total Area: 450 |Total Cost: 2070.06
+2017-09-24T19:06:25.527 : removeOrder: 12092417
+2017-09-24T19:06:45.305 : addOrder: Order No. 13 |Customer's Name: Paul |State: MI | Total Area: 456 |Total Cost: 4773.98
+2017-09-24T19:31:44.224 : addOrder: Order No. 14 |Customer's Name: Mitch |State: PA | Total Area: 444 |Total Cost: 2061.77
+2017-09-24T19:40:04.896 : addOrder: Order No. 11 |Customer's Name: Paul |State: IN | Total Area: 600 |Total Cost: 2448.60
+2017-09-25T08:49:47.219 : addOrder: Order No. 11 |Customer's Name: Paul |State: MI | Total Area: 450 |Total Cost: 3640.44
+2017-09-25T08:50:03.958 : addOrder: Order No. 12 |Customer's Name: Kim |State: IN | Total Area: 600 |Total Cost: 2766.60
+2017-09-25T08:51:08.648 : addOrder: Order No. 13 |Customer's Name: Jason |State: OH | Total Area: 150 |Total Cost: 613.59
+2017-09-25T08:51:27.881 : addOrder: Order No. 14 |Customer's Name: Peter |State: PA | Total Area: 220 |Total Cost: 2325.02
+2017-09-25T08:53:18.263 : addOrder: Order No. 15 |Customer's Name: Leo |State: IN | Total Area: 300 |Total Cost: 3688.80
+2017-09-25T08:54:15.410 : removeOrder: 15092517
+2017-09-25T08:54:44.788 : addOrder: Order No. 16 |Customer's Name: Leo |State: MI | Total Area: 320 |Total Cost: 1472.04
+2017-09-25T08:55:16.271 : addOrder: Order No. 17 |Customer's Name: Ben |State: PA | Total Area: 100 |Total Cost: 1238.30
+2017-09-25T08:55:45.831 : removeOrder: 17092517
+2017-09-25T10:04:12.778 : editOrder: Order No. 16 |Customer's Name: Valerie |State: MI | Total Area: 320 |Total Cost: 1472.04
+2017-09-25T10:57:24.874 : addOrder: Order No. 18 |Customer's Name: Kyle |State: MI | Total Area: 300 |Total Cost: 3140.78
+2017-09-25T10:58:45.652 : editOrder: Order No. 18 |Customer's Name: Mary |State: MI | Total Area: 300 |Total Cost: 3140.78
+2017-09-25T10:59:30.510 : removeOrder: 18092517
+2017-09-25T11:01:54.691 : editOrder: Order No. 16 |Customer's Name: Valerie |State: IN | Total Area: 60 |Total Cost: 276.66
+2017-09-25T11:02:25.251 : editOrder: Order No. 16 |Customer's Name: Valerie |State: IN | Total Area: -90 |Total Cost: -414.99
+2017-09-25T11:11:54.156 : editOrder: Order No. 16 |Customer's Name: Valerie |State: IN | Total Area: -90 |Total Cost: -414.99
+2017-09-25T11:21:04.963 : editOrder: Order No. 16 |Customer's Name: Kyle |State: IN | Total Area: 567 |Total Cost: 4597.80
+2017-09-25T11:25:36.305 : editOrder: Order No. 16 |Customer's Name: Kyle |State: IN | Total Area: 567 |Total Cost: 4597.80
+2017-09-25T14:49:05.243 : addOrder: Order No. 19 |Customer's Name: L |State: MI | Total Area: 54 |Total Cost: 436.85
+2017-09-25T14:49:23.889 : addOrder: Order No. 20 |Customer's Name: g |State: IN | Total Area: 44 |Total Cost: 356.80
